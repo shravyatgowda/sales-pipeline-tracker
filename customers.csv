@@ -1,0 +1,121 @@
+customer_id,customer_name,region_id,segment
+1001,Sigma Mart 1,1,Corporate
+1002,Urban Retail 2,2,Small Business
+1003,Apex Enterprises 3,2,Corporate
+1004,Sigma Enterprises 4,5,Retail
+1005,Orbit Traders 5,4,Small Business
+1006,Urban Mart 6,3,Corporate
+1007,Sigma Traders 7,4,Corporate
+1008,Zen Supplies 8,5,Small Business
+1009,Pioneer Mart 9,1,Corporate
+1010,Urban Mart 10,3,Small Business
+1011,Lotus Mart 11,2,Small Business
+1012,Bright Enterprises 12,5,Small Business
+1013,Apex Enterprises 13,1,Retail
+1014,Nova Supplies 14,4,Small Business
+1015,Apex Traders 15,1,Corporate
+1016,Bright Enterprises 16,2,Retail
+1017,Zen Enterprises 17,2,Corporate
+1018,Apex Supplies 18,5,Small Business
+1019,Pioneer Retail 19,4,Retail
+1020,Apex Supplies 20,5,Corporate
+1021,Prime Solutions 21,4,Small Business
+1022,Sigma Traders 22,1,Retail
+1023,Prime Solutions 23,5,Small Business
+1024,Sigma Retail 24,5,Corporate
+1025,Nova Traders 25,4,Small Business
+1026,Apex Solutions 26,4,Small Business
+1027,Pioneer Solutions 27,5,Corporate
+1028,Pioneer Supplies 28,3,Small Business
+1029,Urban Traders 29,2,Small Business
+1030,Metro Traders 30,4,Small Business
+1031,Zen Traders 31,2,Corporate
+1032,Zen Traders 32,4,Retail
+1033,Metro Enterprises 33,4,Retail
+1034,Apex Mart 34,3,Small Business
+1035,Prime Traders 35,4,Corporate
+1036,Prime Mart 36,3,Small Business
+1037,Prime Solutions 37,5,Small Business
+1038,Sigma Solutions 38,3,Small Business
+1039,Nova Retail 39,2,Corporate
+1040,Prime Traders 40,1,Small Business
+1041,Apex Mart 41,1,Small Business
+1042,Sigma Retail 42,2,Small Business
+1043,Prime Solutions 43,1,Small Business
+1044,Sigma Enterprises 44,5,Retail
+1045,Metro Enterprises 45,2,Small Business
+1046,Pioneer Mart 46,5,Corporate
+1047,Metro Solutions 47,4,Retail
+1048,Bright Mart 48,2,Retail
+1049,Metro Mart 49,2,Small Business
+1050,Apex Traders 50,3,Small Business
+1051,Sigma Solutions 51,4,Small Business
+1052,Orbit Solutions 52,4,Small Business
+1053,Pioneer Mart 53,1,Small Business
+1054,Zen Supplies 54,1,Retail
+1055,Nova Supplies 55,4,Small Business
+1056,Pioneer Retail 56,4,Corporate
+1057,Metro Supplies 57,2,Corporate
+1058,Metro Retail 58,5,Corporate
+1059,Nova Retail 59,1,Small Business
+1060,Vertex Mart 60,4,Retail
+1061,Metro Traders 61,3,Retail
+1062,Zen Mart 62,3,Corporate
+1063,Apex Mart 63,1,Corporate
+1064,Zen Solutions 64,3,Small Business
+1065,Nova Mart 65,2,Small Business
+1066,Metro Mart 66,5,Small Business
+1067,Metro Solutions 67,1,Corporate
+1068,Orbit Retail 68,3,Small Business
+1069,Orbit Mart 69,3,Small Business
+1070,Lotus Enterprises 70,5,Small Business
+1071,Orbit Retail 71,3,Retail
+1072,Orbit Retail 72,2,Corporate
+1073,Bright Solutions 73,3,Retail
+1074,Sigma Traders 74,1,Small Business
+1075,Sigma Enterprises 75,2,Retail
+1076,Sigma Mart 76,1,Small Business
+1077,Urban Retail 77,2,Small Business
+1078,Zen Retail 78,5,Small Business
+1079,Bright Solutions 79,5,Small Business
+1080,Lotus Traders 80,5,Small Business
+1081,Urban Enterprises 81,4,Small Business
+1082,Urban Mart 82,5,Corporate
+1083,Vertex Mart 83,1,Small Business
+1084,Apex Retail 84,1,Corporate
+1085,Vertex Solutions 85,1,Corporate
+1086,Zen Solutions 86,4,Retail
+1087,Nova Traders 87,5,Small Business
+1088,Vertex Enterprises 88,1,Corporate
+1089,Sigma Retail 89,5,Small Business
+1090,Metro Retail 90,5,Retail
+1091,Apex Supplies 91,4,Small Business
+1092,Metro Mart 92,4,Small Business
+1093,Prime Supplies 93,2,Corporate
+1094,Vertex Solutions 94,5,Small Business
+1095,Lotus Solutions 95,1,Corporate
+1096,Zen Mart 96,4,Corporate
+1097,Metro Retail 97,3,Corporate
+1098,Vertex Solutions 98,3,Corporate
+1099,Bright Enterprises 99,1,Small Business
+1100,Vertex Supplies 100,2,Small Business
+1101,Zen Supplies 101,2,Small Business
+1102,Metro Retail 102,5,Small Business
+1103,Pioneer Mart 103,5,Retail
+1104,Zen Solutions 104,2,Small Business
+1105,Prime Supplies 105,1,Corporate
+1106,Apex Supplies 106,5,Small Business
+1107,Metro Retail 107,5,Retail
+1108,Metro Traders 108,5,Retail
+1109,Bright Solutions 109,2,Retail
+1110,Sigma Supplies 110,2,Small Business
+1111,Sigma Supplies 111,2,Small Business
+1112,Orbit Traders 112,5,Small Business
+1113,Lotus Solutions 113,1,Retail
+1114,Sigma Solutions 114,1,Small Business
+1115,Metro Retail 115,1,Small Business
+1116,Sigma Enterprises 116,4,Small Business
+1117,Prime Retail 117,4,Retail
+1118,Prime Traders 118,4,Corporate
+1119,Nova Supplies 119,3,Corporate
+1120,Apex Traders 120,1,Small Business
